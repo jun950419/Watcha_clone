@@ -1,0 +1,31 @@
+.main-container{
+    width: 100%;
+    position: relative;
+    margin-top: 30px;
+    text-align: center;
+    
+
+}
+.login-id{
+    position: relative;
+    
+}
+.id{
+    width: 435px;
+    height: 64px;
+}
+a{
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+.sign{
+    border: none;
+    background-color: #1a73e8;
+    margin-left: 290px;
+    width: 55px;
+    height: 30px;
+    color: wheat;
+}
+
+
